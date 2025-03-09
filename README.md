@@ -1,5 +1,5 @@
 Hey, I'm Adharsh.
-I do web, android, little arduino develepment and trying to make a game.
+I do web, android, little embedded system develepment and trying to make a game.
 
 
 
