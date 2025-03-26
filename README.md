@@ -25,8 +25,8 @@ Here's a snapshot of the technologies I utilize:
 * **Android:** React Native (primary), Java, Kotlin, Android SDK Development (learning)
 * **Embedded:** Arduino, ESP32, C/C++, Python (with PyFirmata)
 * **Game:** Godot, Unity, Unreal Engine (exploring to determine preference)
-* **Modding:** IntelliJ IDEA, Fabric(primary), Forge(like to use)
-* **Tools:** Git, VS Code, Android Studio
+* **Modding:** Fabric (primary), Forge (like to use)
+* **Tools:** Git, VS Code, Android Studio, Intellij IDEA (Only for java)
 
 ---
 
