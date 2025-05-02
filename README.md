@@ -30,4 +30,10 @@ Here's a snapshot of the technologies I utilize:
 
 ---
 
+## 📊 Stats 
+
+Here's my evaluation by `github-readme-stats` api :
+
+![Adharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adharshgamingyt&theme=tokyonight)
+
 **Ambition:** I aim to achieve mastery in at least one of these domains, if not all, in the future.
