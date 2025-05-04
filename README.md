@@ -21,7 +21,7 @@ I'm a passionate developer exploring diverse technological landscapes. My focus 
 
 Here's a snapshot of the technologies I utilize:
 
-* **Web:** Next.js, React, TypeScript, Prisma, Convex
+* **Web:** Next.js, React, TypeScript, Prisma, Convex, Drizzle ORM
 * **Android:** React Native (primary), Java, Kotlin, Android SDK Development (learning)
 * **Embedded:** Arduino, ESP32, C/C++, Python (with PyFirmata)
 * **Game:** Godot, Unity, Unreal Engine (exploring to determine preference)
